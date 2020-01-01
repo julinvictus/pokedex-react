@@ -15,7 +15,6 @@ Project created using:
 https://github.com/JohnPhamous/Intro-to-Web-Dev-React-Make-a-Pokedex
 
 ### How to set up:
-```
 Run React: 
 ```
 $ npm start
